@@ -22,34 +22,25 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
         
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-159246309-1"></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
-
- 
-
-  gtag('config', 'UA-159246309-1');
-
-</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-L8Y2FRHX35"></script>
+		<script>
+  		  window.dataLayer = window.dataLayer || [];
+  		  function gtag(){dataLayer.push(arguments);}
+  		  gtag('js', new Date());
+  		  gtag('config', 'G-L8Y2FRHX35');
+		</script>
 
 	<!-- Global site tag (gtag.js) - Google Ads: 465890687 -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-465890687"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'AW-465890687');
-        </script>
-        <!-- Facebook Pixel Code -->
+        	<script>
+            	  window.dataLayer = window.dataLayer || [];
+            	  function gtag(){dataLayer.push(arguments);}
+            	  gtag('js', new Date());
+            	  gtag('config', 'AW-465890687');
+        	</script>
+        
+	<!-- Facebook Pixel Code -->
         <script>
             !function(f,b,e,v,n,t,s)
             {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -93,8 +84,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        <div class="col-md-6">
 		        <div class="menu1">
 		        <ul class="menu">
-			        <li><a href="promociones.php">PROMOCIONES</a></li>
-			        <li><a href="experiencias.php">EXPERIENCIAS</a></li>
+			        <!--<li><a href="promociones.php">PROMOCIONES</a></li>-->
+					 <li><a href="promociones_Whatsapp.php">PROMOCIONES</a></li>
+			        <!--<li><a href="experiencias.php">EXPERIENCIAS</a></li>-->
 			        <li><a href="index.php#ubicacion">UBICACI&Oacute;N</a></li>
 			        <li><a href="https://reservations.travelclick.com/73729?languageId=ES_ES&dateIn=&dateOut=#/guestsandrooms" target="_blank">RESERVAS</a></li>
 			        <li><a href="contacto.php">CONTACTO</a></li>
