@@ -131,7 +131,7 @@ if(mysqli_num_rows($experiencias)){
 	        <div class="col-md-6"><img src="img_recoleta/EXPERIENCIAS/KER_RECOLETA_EXPERIENCIAS_foto01.jpg" alt="" class="img-responsive"/></div>
 	        <div class="clear"></div>
         </div>
-        
+        <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">

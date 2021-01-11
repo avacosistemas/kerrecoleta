@@ -113,7 +113,7 @@ if(mysqli_num_rows($promociones)){
 	        <div class="col-md-6"><img src="img_recoleta/PROMOCIONES/KER_RECOLETA_PROMOCIONES_foto_02.jpg" alt="" class="img-responsive"/></div>
 	        <div class="clear"></div>
         </div>
-        
+        <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">
