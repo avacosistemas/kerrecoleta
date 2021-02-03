@@ -11,8 +11,7 @@ Buenos Aires, Argentina<br></p>
 	        </div>
 	        <div class="col-md-3 col2">
 		        <ul>
-			        <!--<li><a href="promociones.php">PROMOCIONES</a></li>-->
-					 <li><a href="promociones_Whatsapp.php">PROMOCIONES</a></li>
+			        <li><a href="https://www.kerhoteles.com.ar/promociones.php">PROMOCIONES</a></li>
 			        <!--<li><a href="experiencias.php">EXPERIENCIAS</a></li>-->
 			        <li><a href="#">UBICACI&Oacute;N</a></li>	        
 			        <li><a href="https://reservations.travelclick.com/73729#/guestsandrooms" target="_blank">RESERVAS</a></li>
