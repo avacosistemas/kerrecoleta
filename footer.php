@@ -23,7 +23,7 @@ Buenos Aires, Argentina<br></p>
 			        <li><a href="habitaciones.php">HABITACIONES</a></li>
 			        <li><a href="citrino.php">CITRINO</a></li>
 			        <li><a href="salones.php">EVENTOS</a></li>
-			        <li><a href="spa.php">SPA</a></li>
+			        <!--<li><a href="spa.php">SPA</a></li>-->
 			        <li><a href="hoteles.php">HOTELES</a></li>
 		        </ul>
 	        </div>

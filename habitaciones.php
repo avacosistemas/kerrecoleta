@@ -37,7 +37,8 @@
         </form>
         </div><!--  -->
         </div>
-        <div class="covid" style="background-color:#A6A6A4; text-align:center; font-size:16px;"><a href="KER_Protocolo_Covid-19.pdf" target="_blank" style="color:#fff; display:block; padding:15px;">VER PROTOCOLO COVID-19 | Programa Stay Safe in Ker</a></div>
+
+<?php include("protocolo_covid.php");?>  
         
         <div class="habitaciones">
 	        
@@ -131,7 +132,7 @@
         </div>
         
         
-        
+        <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">

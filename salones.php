@@ -9,6 +9,11 @@
         
        <div class="salones">
 	       <img src="img_recoleta/EVENTOS/KER_RECOLETA_EVENTOS_banner01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
+       </div>
+
+<?php include("protocolo_covid.php");?>  
+
+       <div class="salones">
 	       <div class="col-md-6" style="padding-left:0;">
 		       <img src="img_recoleta/EVENTOS/KER_RECOLETA_EVENTOS_foto01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
 	       </div>
@@ -90,7 +95,7 @@ El registro civil Central No1, Uruguay 753, CABA se encuentra ubicado a tan solo
 	       </div>
         
         
-        
+		   <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">

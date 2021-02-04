@@ -15,6 +15,11 @@ $totalRows_menues = mysqli_num_rows($menues);
         
        <div class="halo">
 	       <img src="img_recoleta/CITRINO/KER_RECOLETA_CITRINO_banner01.jpg" alt="KER_Halo_banner" class="img-responsive" />
+       </div>
+
+<?php include("protocolo_covid.php");?>  
+
+       <div class="halo">
 	       <h1 style="background-color:#043B5D;">Delight yourself</h1>
 	       
 	       <div class="item">
@@ -57,7 +62,7 @@ Ofrecemos Desayuno Buffet Americano, almuerzos, cenas, cocktails & bar, merienda
        </div>
         
         
-        
+	   <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">
